@@ -1,5 +1,6 @@
-# Industrial Craft 2: Community Reconstruction Edition
-# 工业时代2：社区重构版
+![IC2: Community Reconstruction Edition Logo](logo.png)
+# Industrial Craft 2: Community Reconstruction Edition#
+# 工业时代2：社区重构版#
 ####
 - **Display name:** IC2: Community Reconstruction Edition 
 - **模组名:**  IC2: Community Reconstruction Edition
