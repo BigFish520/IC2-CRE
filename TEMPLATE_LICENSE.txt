@@ -1,0 +1,65 @@
+MIT License © 2020 - 2026
+
+Copyright (c) 2020 - 2026 IC2: Community Reconstruction Edition
+
+This license applies to the IC2: Community Reconstruction Edition
+(IC2: CRE) project, including its source code, resources, documentation, and
+associated files.
+
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+
+### Texture Asset Notice
+
+Texture assets included with or derived from the original Industrial Craft 2
+assets remain the property of the Industrial Craft 2 Dev Team or their
+respective rights holders. The IC2: Community Reconstruction Edition project reconstructs and adapts its
+resource presentation based on the original texture assets and does not claim
+ownership of those original assets.
+
+
+---
+
+## 中文版本（对应说明）
+
+MIT 许可证 © 2020 - 2026
+
+版权所有 © 2020 - 2026 IC2: Community Reconstruction Edition
+
+本许可证适用于 IC2: Community Reconstruction Edition（IC2: CRE）项目，
+包括其源代码、资源、文档及相关文件。
+
+特此免费授予任何获得本软件及相关文档文件（以下简称“软件”）副本的人不受限制地处理
+本软件的权利，包括但不限于使用、复制、修改、合并、发布、分发、再许可及出售本软件副本
+的权利，并允许向其提供本软件的人这样做，但须符合以下条件：
+
+上述版权声明及本许可声明应包含在本软件的所有副本或主要部分中。
+
+本软件按“原样”提供，不附带任何明示或默示的保证，包括但不限于适销性、特定用途适用性
+及不侵权保证。在任何情况下，作者或版权持有人均不对因软件或软件的使用或其他交易而产生的
+任何索赔、损害或其他责任负责，无论该责任是基于合同、侵权还是其他原因。
+
+> 本中文版本仅为英文 MIT License 的对应说明。发生解释差异时，以英文版本为准。
+
+### 纹理资产附属说明
+
+随本项目提供或基于 Industrial Craft 2 原始资源衍生的纹理资产，其所有权仍归
+Industrial Craft 2 Dev Team 或相应的权利持有人所有。IC2: Community Reconstruction Edition 项目基于原始纹理资产
+进行资源表现的重构与适配，不主张拥有上述原始纹理资产的所有权。
