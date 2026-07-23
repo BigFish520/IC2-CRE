@@ -8,6 +8,10 @@
 - **模组简称:** IC2CRE
 - **Mod ID:** ic2cre
 - **模组 ID:** ic2cre
+
+#### **This project does not have any discussion groups or communication channels. Information about this project is only available on the project's release page repository. The project itself is free of charge, with no fees of any kind. Please be cautious to avoid being deceived!!!**
+#### **项目无任何交流群、交流频道，本项目信息仅在发布页仓库公示，项目本身免费，无任何收费，谨防上当受骗！！！**
+
 ### 介绍 Introduction
 ## Note: IC2: Community Reconstruction Edition is not developed by the IC2 Dev Team and has not been authorized. This Community Reconstruction Edition has been ported and reconstructed to version 1.21.1 by community players from an earlier version of IC2 and is not an official version.
 ## 注意：IC2: Community Reconstruction Edition并非IC2 Dev Team开发且并未获得授权，此Community Reconstruction Edition为由社区玩家由低版本IC2移植并重构至1.21.1，非官方版本。
