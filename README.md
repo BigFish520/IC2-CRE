@@ -9,6 +9,8 @@
 - **Mod ID:** ic2cre
 - **模组 ID:** ic2cre
 
+#### **Statement: This project will cease updates and the repository will be archived (no further updates or fixes will be released) once IC2 (Industrial Craft 2) becomes active again and continues to release high-version updates.**
+#### **声明：此项目在IC2（工业时代 2）恢复活跃且保持高版本持续更新后，将会停止更新并仓库归档（不再发布更新以及修正）。**
 #### **This project does not have any discussion groups or communication channels. Information about this project is only available on the project's release page repository. The project itself is free of charge, with no fees of any kind. Please be cautious to avoid being deceived!!!**
 #### **项目无任何交流群、交流频道，本项目信息仅在发布页仓库公示，项目本身免费，无任何收费，谨防上当受骗！！！**
 
