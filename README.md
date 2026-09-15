@@ -1,6 +1,10 @@
+<a id="中文首页"></a>
+
 <div align="center">
 
 <img src="logo.png" alt="IC2: Community Reconstruction Edition" width="900">
+
+[中文首页](#中文首页) · [English Home](#english-home) · [页尾 / Bottom](#page-bottom)
 
 # IC2: Community Reconstruction Edition
 
@@ -114,6 +118,144 @@ NeoForge 允许高于最低要求的版本，但仍需匹配 **Minecraft 26.1.2*
 
 **IC2:CRE · 用电力连接你的工业世界**
 
+[中文首页](#中文首页) · [English Home](#english-home) · [页尾 / Bottom](#page-bottom)
+
 [源码仓库](https://github.com/BigFish520/com.bigfish520.industrialcraft2.cre) · [1.21.1 版本信息](https://github.com/BigFish520/IC2-CRE/tree/1.21.1) · [26.1.2 版本信息](https://github.com/BigFish520/IC2-CRE/tree/26.1.2) · [提交反馈](https://github.com/BigFish520/com.bigfish520.industrialcraft2.cre/issues)
+
+</div>
+
+---
+
+<a id="english-home"></a>
+
+<div align="center">
+
+<img src="logo.png" alt="IC2: Community Reconstruction Edition" width="900">
+
+[中文首页](#中文首页) · [English Home](#english-home) · [页尾 / Bottom](#page-bottom)
+
+# IC2: Community Reconstruction Edition
+
+**Industrial Craft 2 · Reconstructed by the Community**
+
+Start with rubber and ore, power your machines, and advance to nuclear energy and quantum technology.
+
+<p>
+  <a href="https://www.minecraft.net/"><img src="https://img.shields.io/badge/Minecraft-26.1.2-62B47A?style=for-the-badge" alt="Minecraft Java Edition 26.1.2"></a>
+  <a href="https://neoforged.net/"><img src="https://img.shields.io/badge/NeoForge-26.1.2.108-E69349?style=for-the-badge" alt="NeoForge recommended version 26.1.2.108"></a>
+  <a href="https://www.azul.com/downloads/?version=java-25-lts&amp;package=jdk#zulu"><img src="https://img.shields.io/badge/Java-25-437E9E?style=for-the-badge&amp;logo=openjdk&amp;logoColor=white" alt="Java 25"></a>
+</p>
+
+<p>
+  <a href="#current-version"><img src="https://img.shields.io/badge/IC2%3ACRE-26.1.2.1--ExpPreVersion-58A6FF?style=flat-square" alt="IC2:CRE 26.1.2.1-ExpPreVersion"></a>
+  <a href="#current-version"><img src="https://img.shields.io/badge/Status-Experimental-D29922?style=flat-square" alt="Experimental version"></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-58A6FF?style=flat-square" alt="MIT license and texture asset notice"></a>
+</p>
+
+[Versions](#versions) · [About](#about) · [Gameplay](#gameplay) · [Add-ons](#add-ons) · [Requirements](#requirements) · [Feedback](#feedback)
+
+</div>
+
+---
+
+## Versions
+
+The project covers **Minecraft 1.21.1** and **26.1.2**. Select a badge below to visit the corresponding branch in the release repository for version information and release notes.
+
+<p align="center">
+  <a href="https://github.com/BigFish520/IC2-CRE/tree/1.21.1"><img src="https://img.shields.io/badge/Version_Info-1.21.1-62B47A?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="View Minecraft 1.21.1 version information"></a>
+  <a href="https://github.com/BigFish520/IC2-CRE/tree/26.1.2"><img src="https://img.shields.io/badge/Version_Info-26.1.2-58A6FF?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="View Minecraft 26.1.2 version information"></a>
+</p>
+
+| Minecraft version | Information and release notes |
+| :--- | :--- |
+| **1.21.1** | [Visit the 1.21.1 version page](https://github.com/BigFish520/IC2-CRE/tree/1.21.1) |
+| **26.1.2** · This page | [Visit the 26.1.2 version page](https://github.com/BigFish520/IC2-CRE/tree/26.1.2) |
+
+The requirements and testing status below apply to **26.1.2**. For other versions, refer to their respective pages.
+
+## About
+
+**IC2:CRE** (Industrial Craft 2: Community Reconstruction Edition) is a community reconstruction project centered on classic Industrial Craft 2 gameplay, bringing resource processing, power generation, industrial machines, and advanced equipment to newer Minecraft versions.
+
+Start with your first generator and macerator, build power networks and processing lines, then explore nuclear reactors, UU-Matter, and quantum equipment to create your own industrial world.
+
+### Current version
+
+> [!IMPORTANT]
+> The current version is **26.1.2.1-ExpPreVersion**, targeting **Minecraft 26.1.2**, and is experimental. The base mod and all four add-ons support launching a test client and entering a world. Full gameplay and compatibility with other mods are still undergoing validation.
+
+See the [26.1.2 version page](https://github.com/BigFish520/IC2-CRE/tree/26.1.2) for version information, release notes, and availability.
+
+## Gameplay
+
+| Area | Content |
+| :--- | :--- |
+| ⚡ Power and energy | Generate power from fuel, geothermal energy, sunlight, and more; distribute it through cables, transformers, and energy storage. |
+| ⚙️ Industrial processing | Process resources with macerators, extractors, compressors, and canning machines to expand your production lines. |
+| ☢️ Nuclear technology | Explore nuclear reactors, reactor components, and heat management to build advanced power facilities. |
+| 🛠️ Electric tools and equipment | Mining drills, chainsaws, nano armor, and quantum armor support gathering, exploration, and protection. |
+| 🧪 Matter technology | Explore advanced resource production through UU-Matter generation, pattern scanning, and replication. |
+| 🌱 Beyond industry | Rubber trees, crop breeding, and brewing bring resource progression into everyday survival. |
+
+## Add-ons
+
+Four add-ons expand different aspects of IC2:CRE. **All require the base mod** and must match your Minecraft version.
+
+| Add-on | Description |
+| :--- | :--- |
+| **Advanced Solar Panels** | Adds higher-tier solar equipment and more options for generating power at night. |
+| **Gravi Suite** | Expands nano and quantum equipment with more advanced functionality. |
+| **Energy Control** | Provides equipment information displays, nuclear reactor monitoring, and logic control tools. |
+| **Iridium Source** | Adds a distinct iridium ore to world generation, offering another way to obtain iridium. |
+
+## Requirements
+
+| Requirement | Version | Official link |
+| :--- | :--- | :--- |
+| **Minecraft: Java Edition** | **26.1.2** | [Minecraft website](https://www.minecraft.net/) |
+| **NeoForge** | Minimum **26.1.2.100**; recommended **26.1.2.108** | [NeoForge website and installer](https://neoforged.net/) |
+| **Java** | **25** | [Download Azul Zulu Java 25](https://www.azul.com/downloads/?version=java-25-lts&package=jdk#zulu) |
+
+NeoForge versions above the minimum are allowed, but must still match **Minecraft 26.1.2**. The project's current validation baseline is **26.1.2.108**. Set the Java runtime used by your launcher to **Java 25**.
+
+To install, place the matching IC2:CRE mod file in your game instance's `mods` folder, then add any matching add-on files you want to use. For multiplayer, keep mod versions consistent between the client and server.
+
+Compatibility with other mods depends on the relevant version notes and actual testing. Mod files for older Minecraft versions cannot be used directly with this version.
+
+## Feedback
+
+Bug reports and suggestions are welcome through [GitHub Issues](https://github.com/BigFish520/com.bigfish520.industrialcraft2.cre/issues). When reporting a problem, include:
+
+- Your Minecraft, NeoForge, Java, and IC2:CRE versions, along with any add-ons and other relevant mods.
+- Steps to reproduce the issue, the expected behavior, and what actually happened.
+- Relevant logs, crash reports, or screenshots, and whether the issue occurs in singleplayer or on a multiplayer server.
+
+## Credits and license
+
+- **Project author**: [BigFish520](https://github.com/BigFish520)
+- **Special thanks**: [wangyu (yu1745)](https://github.com/yu1745)
+- **Classic content and original resources**: Thanks to the Industrial Craft 2 Dev Team and the respective rights holders.
+- **Community support**: Thanks to everyone who tests the mod, reports issues, and shares suggestions.
+
+The project is licensed under the [MIT License](LICENSE). Texture assets originating from or based on the original Industrial Craft 2 remain the property of their original creators or respective rights holders. See the texture asset notice in the license for details.
+
+---
+
+<div align="center">
+
+**IC2:CRE · Power Your Industrial World**
+
+[中文首页](#中文首页) · [English Home](#english-home) · [页尾 / Bottom](#page-bottom)
+
+[Source repository](https://github.com/BigFish520/com.bigfish520.industrialcraft2.cre) · [1.21.1 version information](https://github.com/BigFish520/IC2-CRE/tree/1.21.1) · [26.1.2 version information](https://github.com/BigFish520/IC2-CRE/tree/26.1.2) · [Report an issue](https://github.com/BigFish520/com.bigfish520.industrialcraft2.cre/issues)
+
+</div>
+
+<a id="page-bottom"></a>
+
+<div align="center">
+
+[中文首页](#中文首页) · [English Home](#english-home) · [页尾 / Bottom](#page-bottom)
 
 </div>
