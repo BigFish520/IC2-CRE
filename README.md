@@ -3,17 +3,23 @@
 
   <h1>IC2: Community Reconstruction Edition</h1>
   <p><strong>工业时代2：社区重构版 · IC2CRE</strong></p>
-  <p>在 Minecraft 1.21.1 上重温经典 IC2 工业体验<br>Revisit the classic IC2 industrial experience on Minecraft 1.21.1</p>
+  <p>重温经典 IC2 工业体验 · Minecraft 1.21.1 / 26.1.2<br>Revisit the classic IC2 industrial experience</p>
 
+  <p><strong>1.21.1 运行基准 / 1.21.1 runtime</strong></p>
   <p>
     <a href="https://www.minecraft.net/"><img src="https://img.shields.io/badge/Minecraft-1.21.1-62B47A?style=for-the-badge&amp;logo=gamedeveloper&amp;logoColor=white" alt="Minecraft 1.21.1"></a>
     <a href="https://neoforged.net/"><img src="https://img.shields.io/badge/NeoForge-21.1.233%2B-E97935?style=for-the-badge" alt="NeoForge 21.1.233 or later in the 21.1 series"></a>
     <a href="https://www.azul.com/downloads/?version=java-21-lts&amp;package=jdk"><img src="https://img.shields.io/badge/Java-21-437291?style=for-the-badge&amp;logo=openjdk&amp;logoColor=white" alt="Java 21"></a>
   </p>
   <p>
+    <strong>版本信息 / Version pages</strong><br>
+    <a href="https://github.com/BigFish520/IC2-CRE/tree/1.21.1"><img src="https://img.shields.io/badge/Minecraft-1.21.1-62B47A?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Minecraft 1.21.1 — 版本信息 / Version information"></a>
+    <a href="https://github.com/BigFish520/IC2-CRE/tree/26.1.2"><img src="https://img.shields.io/badge/Minecraft-26.1.2-548BD4?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Minecraft 26.1.2 — 版本信息 / Version information"></a>
+  </p>
+  <p>
     <a href="#简体中文">简体中文</a> · <a href="#english">English</a>
     <br>
-    <a href="https://github.com/BigFish520/IC2-CRE/releases">下载 / Releases</a> ·
+    <a href="#版本入口">版本与下载 / Versions &amp; downloads</a> ·
     <a href="https://github.com/BigFish520/IC2-CRE/issues">建议与反馈 / Issues</a> ·
     <a href="LICENSE">许可证 / License</a>
   </p>
@@ -25,13 +31,24 @@
 
 ### 项目介绍
 
-**工业时代2：社区重构版（IC2CRE）** 是面向 **Minecraft 1.21.1 / NeoForge** 的社区模组，以 Minecraft 1.12.2 的 **Industrial Craft 2（2.8.222-ex112）** 为参考，重构并适配经典 IC2 的概念与机器行为，致力于还原和优化熟悉的工业体验。
+**工业时代2：社区重构版（IC2CRE）** 是涵盖 **Minecraft 1.21.1 与 26.1.2** 的社区模组，以 Minecraft 1.12.2 的 **Industrial Craft 2（2.8.222-ex112）** 为参考，重构并适配经典 IC2 的概念与机器行为，致力于还原和优化熟悉的工业体验。
 
 从资源加工、发电与电力传输，到核反应堆和电动装备，项目围绕经典 IC2 的工业玩法持续开发。模组显示名称为 **IC2: Community Reconstruction Edition**，模组 ID 为 `ic2cre`。
 
 > **非官方声明**：本项目由社区玩家开发，并非 IC2 Dev Team 的作品，也未获得其授权，不属于 IC2 官方版本。
 
+### 版本入口
+
+项目按 Minecraft 版本提供独立的分支信息页。**发布信息仓库与源码仓库地址不同**，请从以下入口查看对应版本的介绍、发布说明与下载指引。
+
+| Minecraft 版本 | 版本信息页 |
+| :--- | :--- |
+| **1.21.1** | [查看 1.21.1 分支介绍与发布信息 →](https://github.com/BigFish520/IC2-CRE/tree/1.21.1) |
+| **26.1.2** | [查看 26.1.2 分支介绍与发布信息 →](https://github.com/BigFish520/IC2-CRE/tree/26.1.2) |
+
 ### 运行与下载
+
+以下运行基准适用于 **1.21.1**；**26.1.2** 的运行要求请查看对应版本信息页。
 
 | 运行基准 | 要求 |
 | :--- | :--- |
@@ -40,7 +57,7 @@
 | Java | **21** |
 | 项目状态 | **开发阶段**，内容与行为仍可能调整 |
 
-请前往 [Releases 发布页](https://github.com/BigFish520/IC2-CRE/releases) 查看可用版本、更新说明与对应下载文件。具体发布安排以仓库和发布页公告为准。
+请从上方对应版本信息页查看可用版本、更新说明与下载指引。具体发布安排以对应页面公告为准。
 
 本项目使用自身的能源系统，**无需安装 Energy Core 作为必需前置**。游玩时请匹配上述 Minecraft、NeoForge 与 Java 版本，并阅读所下载版本的说明。
 
@@ -85,13 +102,24 @@
 
 ### About the project
 
-**Industrial Craft 2: Community Reconstruction Edition (IC2CRE)** is a community mod for **Minecraft 1.21.1 / NeoForge**. Based on **Industrial Craft 2 for Minecraft 1.12.2 (2.8.222-ex112)** as a reference, it reconstructs and adapts classic IC2 concepts and machine behavior to restore and improve the familiar industrial experience.
+**Industrial Craft 2: Community Reconstruction Edition (IC2CRE)** is a community mod covering **Minecraft 1.21.1 and 26.1.2**. Based on **Industrial Craft 2 for Minecraft 1.12.2 (2.8.222-ex112)** as a reference, it reconstructs and adapts classic IC2 concepts and machine behavior to restore and improve the familiar industrial experience.
 
 The project is under active development, covering resource processing, power generation and transmission, nuclear reactors, and electric equipment. Its in-game display name is **IC2: Community Reconstruction Edition**, and its mod ID is `ic2cre`.
 
 > **Unofficial project:** This mod is developed by community players. It is neither developed nor authorized by the IC2 Dev Team and is not an official IC2 release.
 
+### Version pages
+
+The project provides a separate information branch for each Minecraft version. **The release information repository and the source repository have different addresses.** Use the links below for version-specific introductions, release notes, and download guidance.
+
+| Minecraft version | Version information |
+| :--- | :--- |
+| **1.21.1** | [View the 1.21.1 introduction and release information →](https://github.com/BigFish520/IC2-CRE/tree/1.21.1) |
+| **26.1.2** | [View the 26.1.2 introduction and release information →](https://github.com/BigFish520/IC2-CRE/tree/26.1.2) |
+
 ### Requirements and downloads
+
+The requirements below apply to **1.21.1**. See the **26.1.2** version page for its runtime requirements.
 
 | Runtime baseline | Requirement |
 | :--- | :--- |
@@ -100,7 +128,7 @@ The project is under active development, covering resource processing, power gen
 | Java | **21** |
 | Project status | **In development**; content and behavior may change |
 
-Visit [Releases](https://github.com/BigFish520/IC2-CRE/releases) for available versions, release notes, and downloads. Release announcements are published in this repository and on its release page.
+Use the corresponding version page above for available versions, release notes, and download guidance. Refer to that page for release announcements.
 
 IC2CRE uses its own energy system. **Energy Core is not a required dependency.** Match the Minecraft, NeoForge, and Java versions above and read the notes for the version you download.
 
