@@ -1,46 +1,119 @@
-![IC2: Community Reconstruction Edition Logo](logo.png)
-# Industrial Craft 2: Community Reconstruction Edition
-# 工业时代2：社区重构版
-####
-- **Display name:** IC2: Community Reconstruction Edition 
-- **模组名:**  IC2: Community Reconstruction Edition
-- **Short name:** IC2CRE
-- **模组简称:** IC2CRE
-- **Mod ID:** ic2cre
-- **模组 ID:** ic2cre
+<div align="center">
 
-#### **Statement: This project will cease updates and the repository will be archived (no further updates or fixes will be released) once IC2 (Industrial Craft 2) becomes active again and continues to release high-version updates.**
-#### **声明：此项目在IC2（工业时代 2）恢复活跃且保持高版本持续更新后，将会停止更新并仓库归档（不再发布更新以及修正）。**
-#### **This project does not have any discussion groups or communication channels. Information about this project is only available on the project's release page repository. The project itself is free of charge, with no fees of any kind. Please be cautious to avoid being deceived!!!**
-#### **项目无任何交流群、交流频道，本项目信息仅在发布页仓库公示，项目本身免费，无任何收费，谨防上当受骗！！！**
+<img src="logo.png" alt="IC2: Community Reconstruction Edition" width="900">
 
-### 介绍 Introduction
-## Note: IC2: Community Reconstruction Edition is not developed by the IC2 Dev Team and has not been authorized. This Community Reconstruction Edition has been ported and reconstructed to version 1.21.1 by community players from an earlier version of IC2 and is not an official version.
-## 注意：IC2: Community Reconstruction Edition并非IC2 Dev Team开发且并未获得授权，此Community Reconstruction Edition为由社区玩家由低版本IC2移植并重构至1.21.1，非官方版本。
-- Industrial Craft 2: Community Reconstruction Edition is a reconstruction of the IC2 concepts and machine behavior on the NeoForge loader. The project takes the classic IC2 implementation as a reference, but the codebase is being reorganized toward a more modern and easier-to-maintain architecture.In order to respect IC2 and individual development capabilities, this restructured version still uses the Industrial Craft 2-2.8.222-ex112 asset files. At the same time, the relevant asset files remain under the copyright of the Industrial Craft Dev Team (or are held personally by the creators).
-- 工业时代2：社区重构版是在NeoForge加载器上，对IC2概念和机器行为的重新构建。该项目以经典的IC2实现为参考，但代码库正在重组，朝向更现代、更易维护的架构。为尊重IC2以及个人开发能力，本重构版仍使用Industrial Craft 2-2.8.222-ex112资产文件，同时相关资产文件仍由Industrial Craft Dev Team保留（亦或者个人持有绘制版权）相关版权。
-- Information Release: The first development version (dev.x.x) is expected to be released at the end of July.
-- 发布信息：预计首个开发版（dev.x.x）在七月底发布。
-### 游玩提示
-- This project mod is based on the prerequisite (Energy Core) energy core as the energy system. It needs this mod as a prerequisite to load normally; otherwise, it will prompt that the prerequisite is missing and cannot load.[[Downloads Energy Core]](https://github.com/BigFish520/Energy-Core "[Energy Core]")
-- 本项目模组基于前置（Energy Core）能量核心作能量系统，需要将此模组作为前置才可正常加载，否则会提示无该前置导致无法加载。 [[下载Energy Core]](https://github.com/BigFish520/Energy-Core "[Energy Core]")
-### 版本管理 Version Control
-- Version Classification: Official Release Version (Release Version - RV.xx), Preview Version (Preview Version - PV.xx), Development Version (Development Version - Dev.xx)
-- 版本区分：正式发布版（Release Version-RV.xx） 预览版本（Preview Version-PV.xx） 开发版（Development Version-Dev.xx）
-- What do all of these mean?
-- 这些都是什么意思？
-- Release Version-RV.rv_21.x.x：The official version serves as a long-term, relatively stable version, with fewer errors.
-- 正式发布版：正式版则作为长期较稳定版本，错误较少。
-- Preview Version-PV.pv_21.x.x：The preview version is released based on the development version as a short-term stability test version. At this stage, the direction and content of updates have been generally confirmed to be correct and without major changes.
-- 预览版本：预览版则在开发版基础上，发布一个短期测试稳定性版本，此时更新方向及内容已大致确认 无误且无重大更改。
-- Development Version-Dev.dev.x.x：The development version allows for the priority experience of new content; however, this new content is added on a development basis and may be removed or revised at any time. Additionally, it contains numerous errors and omissions, serving as an early-stage development version.
-- 开发版：开发版则优先体验新内容，但该新内容则是开发性新增，随时可能会被移除或重新修正，同时存在大量错误以及缺失，作为开发早期版本。
-### 建议与反馈 Suggestions and Feedback
-- If you have any suggestions or encounter any bugs during gameplay, please submit them here as issues (please include the relevant crash reports).
-- 如果你有任何建议，或游玩过程中出现的bug，请在此提交[Lssues](https://github.com/BigFish520/IC2-CRE/issues "Lssues")（请包含相关crash-reports报告）。
-### 更多信息 
-- According to the development schedule, the project will be open-sourced after the version becomes stable. This project has not obtained authorization from the IC2 Dev Team or the original holder, and is solely developed by the community based on IC2 1.12.2 and reconstructed up to 1.21.1. The project has optimized a large amount of architecture and development specifications, as well as some basic logic, aiming to restore and enhance the IC2 experience.
-- 根据开发进度，项目开源将在版本稳定后，给予开源，本项目未获得IC2 Dev Team或原持有人等授权，仅由社区基于1.12.2IC2重构开发至1.21.1，本项目优化了大量架构及开发规范、部分基础逻辑，致力还原及优化IC2体验。
+# IC2: Community Reconstruction Edition
 
-- This module is supplemented by the [MIT](https://github.com/BigFish520/IC2-CRE?tab=MIT-1-ov-file "MIT") License. If you believe that any of its asset files, code, etc., involve disputes or other issues, please contact the owner. If the dispute is verified, the content will be removed and taken down.
-- 此模组由[MIT](https://github.com/BigFish520/IC2-CRE?tab=MIT-1-ov-file "MIT")协议补充，若您认为其中的资产文件、代码等涉及争议等问题，请联系所有者，若争议属实，将进行删除下架。
+**工业时代 2 · 社区重构版**
+
+从橡胶与矿石起步，用电力驱动机器，走向核能与量子科技。
+
+<p>
+  <a href="https://www.minecraft.net/"><img src="https://img.shields.io/badge/Minecraft-26.1.2-62B47A?style=for-the-badge" alt="Minecraft Java Edition 26.1.2"></a>
+  <a href="https://neoforged.net/"><img src="https://img.shields.io/badge/NeoForge-26.1.2.108-E69349?style=for-the-badge" alt="NeoForge 推荐版本 26.1.2.108"></a>
+  <a href="https://www.azul.com/downloads/?version=java-25-lts&amp;package=jdk#zulu"><img src="https://img.shields.io/badge/Java-25-437E9E?style=for-the-badge&amp;logo=openjdk&amp;logoColor=white" alt="Java 25"></a>
+</p>
+
+<p>
+  <a href="#当前版本"><img src="https://img.shields.io/badge/IC2%3ACRE-26.1.2.1--ExpPreVersion-58A6FF?style=flat-square" alt="IC2:CRE 26.1.2.1-ExpPreVersion"></a>
+  <a href="#当前版本"><img src="https://img.shields.io/badge/状态-实验测试版-D29922?style=flat-square" alt="实验测试版"></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-58A6FF?style=flat-square" alt="MIT 许可证与纹理资产说明"></a>
+</p>
+
+[版本导航](#版本导航) · [项目介绍](#项目介绍) · [玩法概览](#玩法概览) · [附属内容](#附属内容) · [运行前置](#运行前置) · [反馈与交流](#反馈与交流)
+
+</div>
+
+---
+
+## 版本导航
+
+项目涵盖 **Minecraft 1.21.1** 与 **26.1.2**。点击下方徽标，前往发布仓库中对应分支的版本信息页，查看该版本的介绍与发布说明。
+
+<p align="center">
+  <a href="https://github.com/BigFish520/IC2-CRE/tree/1.21.1"><img src="https://img.shields.io/badge/版本信息-1.21.1-62B47A?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="查看 Minecraft 1.21.1 版本信息"></a>
+  <a href="https://github.com/BigFish520/IC2-CRE/tree/26.1.2"><img src="https://img.shields.io/badge/版本信息-26.1.2-58A6FF?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="查看 Minecraft 26.1.2 版本信息"></a>
+</p>
+
+| Minecraft 版本 | 介绍与发布说明 |
+| :--- | :--- |
+| **1.21.1** | [进入 1.21.1 版本信息页](https://github.com/BigFish520/IC2-CRE/tree/1.21.1) |
+| **26.1.2** · 本页对应版本 | [进入 26.1.2 版本信息页](https://github.com/BigFish520/IC2-CRE/tree/26.1.2) |
+
+下文的运行前置与测试状态适用于 **26.1.2**；其他版本请以各自信息页为准。
+
+## 项目介绍
+
+**IC2:CRE**（Industrial Craft 2: Community Reconstruction Edition）是围绕经典 Industrial Craft 2 玩法开展的社区重构项目，将资源加工、电力生产、工业机器与高阶装备带到新的 Minecraft 版本。
+
+从第一台发电机与打粉机开始，逐步建立供电网络和加工产线，再探索核反应堆、UU 物质与量子装备，构建自己的工业世界。
+
+### 当前版本
+
+> [!IMPORTANT]
+> 当前版本为 **26.1.2.1-ExpPreVersion**，面向 **Minecraft 26.1.2**，处于实验测试阶段。主体与四个附属已支持测试客户端启动和进入世界，完整玩法与外部模组兼容性仍在持续验证。
+
+本版本的介绍与发布说明见 [26.1.2 版本信息页](https://github.com/BigFish520/IC2-CRE/tree/26.1.2)，版本可用性以该页说明为准。
+
+## 玩法概览
+
+| 方向 | 内容 |
+| :--- | :--- |
+| ⚡ 电力与能源 | 火力、地热、太阳能等发电方式，配合电缆、变压器与储能设备组织供电。 |
+| ⚙️ 工业加工 | 使用打粉机、提取机、压缩机与装罐机处理资源，逐步完善加工产线。 |
+| ☢️ 核能技术 | 探索核反应堆、堆内组件与热量管理，建设更高阶的能源设施。 |
+| 🛠️ 电动工具与装备 | 采矿钻头、链锯、纳米装备与量子装备，覆盖采集、探索与防护需求。 |
+| 🧪 物质科技 | 通过 UU 物质生成、模式扫描与复制设备，探索高阶资源生产。 |
+| 🌱 工业之外 | 橡胶树、作物培育与酿酒等内容，让资源发展融入日常生存。 |
+
+## 附属内容
+
+四个附属围绕 IC2:CRE 扩展不同玩法，**均需要安装主体模组**，使用时请选择对应 Minecraft 版本。
+
+| 附属 | 介绍 |
+| :--- | :--- |
+| **Advanced Solar Panels** · 高级太阳能 | 提供更高阶的太阳能设备，扩展夜间供电选择。 |
+| **Gravi Suite** · 重力装甲 | 扩展纳米与量子装备，提供更高阶的装备功能。 |
+| **Energy Control** · 能源控制 | 提供设备信息显示、核反应堆监测与逻辑控制等工具。 |
+| **Iridium Source** · 铱矿资源 | 在世界中加入独立的铱矿石，扩展铱资源的获取途径。 |
+
+## 运行前置
+
+| 前置 | 版本要求 | 官方入口 |
+| :--- | :--- | :--- |
+| **Minecraft: Java Edition** | **26.1.2** | [Minecraft 官网](https://www.minecraft.net/) |
+| **NeoForge** | 最低 **26.1.2.100**；推荐 **26.1.2.108** | [NeoForge 官网与安装器](https://neoforged.net/) |
+| **Java** | **25** | [Azul Zulu Java 25 下载](https://www.azul.com/downloads/?version=java-25-lts&package=jdk#zulu) |
+
+NeoForge 允许高于最低要求的版本，但仍需匹配 **Minecraft 26.1.2**；本项目当前验证基准为 **26.1.2.108**。启动器中实际使用的 Java 运行环境应设置为 **Java 25**。
+
+安装时，将匹配版本的 IC2:CRE 模组文件放入游戏实例的 `mods` 文件夹，需要附属时再加入对应文件。多人游戏请保持客户端与服务端的模组版本一致。
+
+其他模组的兼容情况以对应版本的说明和实际验证为准，旧版模组文件不能直接用于本版本。
+
+## 反馈与交流
+
+欢迎通过 [GitHub Issues](https://github.com/BigFish520/com.bigfish520.industrialcraft2.cre/issues) 提交问题与建议。反馈问题时，请附上：
+
+- Minecraft、NeoForge、Java 与 IC2:CRE 的版本，以及使用的附属和其他相关模组。
+- 复现步骤、预期表现与实际结果。
+- 相关日志、崩溃报告或截图，并说明问题出现在单人游戏还是多人服务器。
+
+## 致谢与许可
+
+- **项目作者**：[BigFish520](https://github.com/BigFish520)
+- **特别鸣谢**：[wangyu（yu1745）](https://github.com/yu1745)
+- **经典内容与原始资源**：感谢 Industrial Craft 2 Dev Team 及相应资源权利人。
+- **社区支持**：感谢参与测试、反馈问题和提供建议的玩家。
+
+项目采用 [MIT 许可证](LICENSE)。来自或基于原版 Industrial Craft 2 的纹理资产，其所有权仍归原作者或相应权利人；具体说明见许可证中的纹理资产条款。
+
+---
+
+<div align="center">
+
+**IC2:CRE · 用电力连接你的工业世界**
+
+[源码仓库](https://github.com/BigFish520/com.bigfish520.industrialcraft2.cre) · [1.21.1 版本信息](https://github.com/BigFish520/IC2-CRE/tree/1.21.1) · [26.1.2 版本信息](https://github.com/BigFish520/IC2-CRE/tree/26.1.2) · [提交反馈](https://github.com/BigFish520/com.bigfish520.industrialcraft2.cre/issues)
+
+</div>
