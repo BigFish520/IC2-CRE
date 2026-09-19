@@ -3,11 +3,12 @@
   <groupId>ic2cre</groupId>
   <artifactId>ic2cre-api</artifactId>
   <versioning>
-    <latest>1.21.1-0.3_5h-dev</latest>
-    <release>1.21.1-0.3_5h-dev</release>
+    <latest>1.21.1-0.4-dev</latest>
+    <release>1.21.1-0.4-dev</release>
     <versions>
       <version>1.21.1-0.3_5h-dev</version>
+      <version>1.21.1-0.4-dev</version>
     </versions>
-    <lastUpdated>20260919083835</lastUpdated>
+    <lastUpdated>20260919085151</lastUpdated>
   </versioning>
 </metadata>

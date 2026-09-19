@@ -1,0 +1,60 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "ic2cre",
+    "module": "ic2cre",
+    "version": "1.21.1-0.4-dev",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "9.2.1"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 21,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "ic2cre-1.21.1-0.4-dev.jar",
+          "url": "ic2cre-1.21.1-0.4-dev.jar",
+          "size": 7902401,
+          "sha512": "57642082be6bd87416b2de621ef0d9e9d712a31e387e25c9b1f7858945ed25dfec05dbbba1b4656890ac1ad2b63eeba9ec2d6dd1433838919e1b0a5f56cbbbf7",
+          "sha256": "e08d68bcc58004e7d58f57022733f2ce880048aa5cdd4afe3ea3850f7bbbfb25",
+          "sha1": "cb913197f3bde1f90fdb5551d221b9ce0f3cfa6b",
+          "md5": "d21d6141372c815049878f26f734f8dd"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 21,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "ic2cre-1.21.1-0.4-dev.jar",
+          "url": "ic2cre-1.21.1-0.4-dev.jar",
+          "size": 7902401,
+          "sha512": "57642082be6bd87416b2de621ef0d9e9d712a31e387e25c9b1f7858945ed25dfec05dbbba1b4656890ac1ad2b63eeba9ec2d6dd1433838919e1b0a5f56cbbbf7",
+          "sha256": "e08d68bcc58004e7d58f57022733f2ce880048aa5cdd4afe3ea3850f7bbbfb25",
+          "sha1": "cb913197f3bde1f90fdb5551d221b9ce0f3cfa6b",
+          "md5": "d21d6141372c815049878f26f734f8dd"
+        }
+      ]
+    }
+  ]
+}

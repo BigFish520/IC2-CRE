@@ -16,8 +16,8 @@ repositories {
     }
 }
 dependencies {
-    compileOnly 'ic2cre:ic2cre-api:1.21.1-0.3_5h-dev'
-    runtimeOnly 'ic2cre:ic2cre:1.21.1-0.3_5h-dev'
+    compileOnly 'ic2cre:ic2cre-api:1.21.1-0.4-dev'
+    runtimeOnly 'ic2cre:ic2cre:1.21.1-0.4-dev'
 }
 ```
 
@@ -34,7 +34,7 @@ From the development checkout:
 This exports `.java` files and the license to `build/api-sources`. From a release JAR, with Java 21 but without Minecraft/NeoForge on the classpath:
 
 ```powershell
-java -jar IC2CRE_0.3_5h-dev_NeoForge_1.21.1.jar --extract-api ic2cre-api-sources
+java -jar IC2CRE_0.4-dev_NeoForge_1.21.1.jar --extract-api ic2cre-api-sources
 ```
 
 The destination must not exist and its parent directory must exist. The exporter refuses to overwrite an existing directory. The embedded source archive is built from the same `src/api/java` source set as the API binary. It excludes runtime implementation, add-on, client implementation and test sources. `--help` prints usage.
