@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns="http://maven.apache.org/POM/4.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>ic2cre</groupId>
+  <artifactId>ic2cre-api</artifactId>
+  <version>1.21.1-0.3_5h-dev</version>
+  <name>IC2CRE Public API</name>
+  <description>Compile-only IC2CRE API for Minecraft 1.21.1 and NeoForge. Requires the IC2CRE runtime mod.</description>
+</project>
